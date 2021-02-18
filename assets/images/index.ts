@@ -21,7 +21,7 @@ const AppImages = {
   repas_7: require('./food2/lasagne.webp'),
   repas_8: require('./food2/loc_lac.jpg'),
   repas_9: require('./food2/maffe.jpg'),
-  repas_10: require('./food2/paëlla.jpg'),
+  repas_10: require('./food2/paella.jpg'),
   repas_11: require('./food2/pate_carbonara.jpg'),
   repas_12: require('./food2/wrap_au_thon.jpg'),
 
