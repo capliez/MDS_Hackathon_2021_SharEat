@@ -16,6 +16,7 @@ Step to install:
   1. ``` git clone https://github.com/capliez/MDS_Hackathon_2021_SharEat.git ```
   2. ``` npm install ```
   3. ``` expo start ```
+  4. ``` Run on IOS/Android simulator ```
 
 ### How to use the application
 
